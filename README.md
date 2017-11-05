@@ -1,2 +1,2 @@
 # Restaurant-order-app
-An ruby terminal app to be used at restaurants to make orders.
+A ruby terminal app that takes the number of guests as input and places the customers to a table and once at a table the customer can make an order. The order can be viewed with the amout of time left before the dish is completed. It uses real world time and uses set times on dishes to be able to queue multiple orders together to calculate the total time it will take to complete the orders on that table.
